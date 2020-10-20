@@ -1,24 +1,24 @@
-### Hello, I'm [Melo Guan][website]👋
+### Hello, I'm [Melo Guan][website] 👋
 
 ## I'm a Student, Developer, and Singer!!
 
 - 🔭 I'm currently studying at [The University of Auckland][university]
 - 🌱 Major in Computer Science
-- 👯 I’m looking to collaborate with other software engineers
+- 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 2020 Goals: Get a Internship
-- ⚡ Fun fact: Used to live in Canton Since born, but I still can't understand any Cantonese 🤣
+- ⚡ Fun fact: Used to live in Canton since I was born, but still can't understand any Cantonese 🤣
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="melo Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="meloguan.info" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="melo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="melo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" />][wechat]
+[<img align="left" alt="melo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="melo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,10 +44,10 @@
 
 [website]: http://meloguan.info/
 [university]: https://www.auckland.ac.nz/en.html
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[facebook]: https://www.facebook.com/profile.php?id=100006650474854
+[instagram]: https://www.instagram.com/ya.g.525/?hl=en
+[linkedin]: https://www.linkedin.com/in/meloguan/
+[wechat]: https://web.wechat.com/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
