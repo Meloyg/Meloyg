@@ -6,7 +6,7 @@
 - 🌱 Major in Computer Science
 - 👯 I’m looking to collaborate with other Software Engineers
 - 🥅 2020 Goals: Get a Internship
-- ⚡ Fun fact: Used to live in Canton since I was born, but still can't understand any Cantonese 🤣
+- ⚡ Fun fact: Used to live in Canton since I was born, but still understand 0 Cantonese 🤣
 
 ### Spotify Playing 🎧
 
