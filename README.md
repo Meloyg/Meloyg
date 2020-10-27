@@ -42,7 +42,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 
-[website]: http://meloguan.info/
+[website]: https://meloguan.info/
 [university]: https://www.auckland.ac.nz/en.html
 [facebook]: https://www.facebook.com/profile.php?id=100006650474854
 [instagram]: https://www.instagram.com/ya.g.525/?hl=en
