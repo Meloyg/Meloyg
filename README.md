@@ -5,8 +5,7 @@
 - 🔭 I'm currently studying at [The University of Auckland][university]
 - 🌱 Major in Computer Science
 - 👯 I’m looking to collaborate with other Software Engineers
-- 🥅 2020 Goals: Get a Internship
-- ⚡ Fun fact: Used to live in Canton since I was born, but still can't understand Cantonese 🤣
+- 🥅 2021 Goals: Get a Internship
 
 ### Connect with me:
 
