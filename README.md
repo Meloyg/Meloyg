@@ -1,11 +1,11 @@
 ### Hello, I'm [Melo Guan][website] 👋
 
-## I'm a Student, Developer, and Singer!!
+## I'm a Student, Developer, and Gamer!!
 
 - 🔭 I'm currently studying at [The University of Auckland][university]
 - 🌱 Major in Computer Science
 - 👯 I’m looking to collaborate with other Software Engineers
-- 🥅 2021 Goals: Get a Internship
+- 🥅 2021 Goals: Get good results
 
 ### Connect with me:
 
