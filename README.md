@@ -1,6 +1,6 @@
 ### Hello, I'm [Melo Guan][website] 👋
 
-## I'm a Student, Developer, and Gamer!!
+## I'm a Student and Developer!!
 
 - 🔭 I'm currently studying at [The University of Auckland][university]
 - 🌱 Major in Computer Science
