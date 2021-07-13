@@ -42,4 +42,4 @@
 [cssplaylist]: https://meloguan.info/
 [reactplaylist]: https://meloguan.info/
 
-https://github-readme-stats.vercel.app/api?username=ygua699&show_icons=true&theme=material-palenight
+![Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygua699&show_icons=true&theme=material-palenight)
