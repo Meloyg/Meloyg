@@ -1,5 +1,5 @@
 # Hello, I'm [Melo Guan][website] 👋
-<img width="100%" src='https://media.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif' />
+<img width="100%" src='https://media3.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif' />
 
 ## I'm a Student and Developer!!
 
