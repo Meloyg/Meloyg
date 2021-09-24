@@ -26,7 +26,8 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=ygua699&bg_color=ffffff&hide_border=true" width="100%"/>
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ygua699&no-frame=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ygua699&no-frame=true&no-bg=true" width="100%"/>
+
 
 
 [website]: https://meloguan.info/
