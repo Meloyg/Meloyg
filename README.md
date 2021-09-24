@@ -28,11 +28,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=ygua699&no-frame=true" width="100%"/>
 
-## 
-<p align="center">
-  <img  alt="MongoDB" src ="http://github-readme-streak-stats.herokuapp.com?user=ygua699&theme=monokai-metallian&ring=DD2727"/>
-</p>
-
 
 [website]: https://meloguan.info/
 [university]: https://www.auckland.ac.nz/en.html
