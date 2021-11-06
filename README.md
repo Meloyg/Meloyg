@@ -17,7 +17,7 @@
 
 - 🔭 I'm currently studying at [The University of Auckland][university]
 - 🌱 Major in Computer Science
-- 👯 I’m looking to collaborate with other Software Engineers
+- 👯 I’m looking to collaborate with other Software Engineers:)
 
 
 
