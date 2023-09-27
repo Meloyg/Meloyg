@@ -18,6 +18,8 @@
 - 🌱 Major in Computer Science
 - 👯 I’m looking to collaborate with other Software Engineers
 
+- ![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 ## 
