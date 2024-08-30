@@ -1,12 +1,3 @@
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-# Hello, I'm [Melo Guan][website] 👋
 
 - ![](./profile-3d-contrib/profile-green-animate.svg)
 
