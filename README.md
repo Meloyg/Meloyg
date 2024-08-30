@@ -11,6 +11,8 @@
 
 # Hello, I'm [Melo Guan][website] 👋
 
+- ![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=Meloyg&no-frame=true&no-bg=true" width="100%"/>
 
