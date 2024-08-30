@@ -12,9 +12,6 @@
 # Hello, I'm [Melo Guan][website] 👋
 
 
-
-## 
-
 <img src="https://github-profile-trophy.vercel.app/?username=Meloyg&no-frame=true&no-bg=true" width="100%"/>
 
 
